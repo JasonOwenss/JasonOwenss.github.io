@@ -1,12 +1,6 @@
 <template>
   <div>
-    <h1 class="text-2xl md:text-4xl mt-2 md:mt-6 text-center">Jason Owens</h1>
-    <h2 class="text-lg md:text-2xl mt-4 text-center">Software Engineer</h2>
-    <p class="text-sm md:text-base mt-6 text-justify">
-      I am a software engineer from New Zealand with 3+ years 
-      of experience  accross the full stack of software development:
-    </p>
-    <p class="text-sm md:text-base mt-6 text-justify">
+    <p class="text-sm md:text-base text-justify">
       Frontend development in web and mobile frameworks 
       (React, Vue, React Native)
     </p>

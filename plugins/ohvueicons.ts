@@ -11,7 +11,10 @@ import {
   CoAmazonAws,
   ViFileTypeTerraform,
   BiGithub,
-  CoOctopusDeploy
+  CoOctopusDeploy,
+  HiArrowSmDown,
+  MdMailOutlined,
+  BiTelephone
 } from 'oh-vue-icons/icons'
 
 addIcons(
@@ -26,7 +29,10 @@ addIcons(
   CoAmazonAws,
   ViFileTypeTerraform,
   BiGithub,
-  CoOctopusDeploy
+  CoOctopusDeploy,
+  HiArrowSmDown,
+  MdMailOutlined,
+  BiTelephone
 )
 
 export default defineNuxtPlugin(nuxtApp => {

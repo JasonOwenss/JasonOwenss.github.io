@@ -14,13 +14,15 @@
             </template>
             <template #separator> / </template>
         </Breadcrumb>
-        <Intro class="min-h-screen flex flex-col items-center w-10/12 sm:w-full" id="Intro"></Intro>
+        <Landing class="sm:min-h-screen flex flex-col items-center w-10/12 sm:w-full sm:pt-20 justify-between" id="Intro"></Landing>
+        <Intro class="min-h-screen flex flex-col items-center justify-center w-10/12 sm:w-full" id="Overview"></Intro>
         <Divider class="h-2" type="solid"/>
         <Experience class="min-h-screen flex flex-col w-10/12 sm:w-full" id="Experience"></Experience>
         <Divider/>
-        <Contact class="min-h-screen" id="Contact"></Contact>
+        <Contact class="mb-8" id="Contact"></Contact>
       </div>
-      <div class="w-0 sm:w-2/12 md:w-3/12"></div>
+      <div class="w-0 sm:w-2/12 md:w-3/12">
+      </div>
     </div>
   </div>
 </template>

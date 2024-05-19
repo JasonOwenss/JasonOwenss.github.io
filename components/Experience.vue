@@ -74,7 +74,7 @@
       </li>
     </ul>
     <!--Education-->
-    <h1 v-animateonscroll="{ enterClass: 'fadein', leaveClass: 'fadeout' }" class="text-2xl md:text-2xl mt-6 text-left">
+    <h1 v-animateonscroll="{ enterClass: 'fadein', leaveClass: 'fadeout' }" class="text-2xl md:text-2xl mt-6 text-left font-bold">
       Education
     </h1>
     <p v-animateonscroll="{ enterClass: 'fadein', leaveClass: 'fadeout' }" class="text-xl mt-2 text-left">
@@ -87,7 +87,7 @@
       January 2017 - July 2020
     </p>
     <!--Certifications-->
-    <h1 v-animateonscroll="{ enterClass: 'fadein', leaveClass: 'fadeout' }" class="text-2xl md:text-2xl mt-6 text-left">
+    <h1 v-animateonscroll="{ enterClass: 'fadein', leaveClass: 'fadeout' }" class="text-2xl md:text-2xl mt-6 text-left font-bold">
       Certifications
     </h1>
     <ul class="mt-2 list-disc ml-6">
